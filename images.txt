@@ -23,3 +23,4 @@ opensearchproject/opensearch:latest
 opensearchproject/opensearch-dashboards:latest
 myscale/myscaledb:1.6
 opensearch-dashboards:latest
+xinference
